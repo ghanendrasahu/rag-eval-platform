@@ -1,0 +1,13 @@
+rag_env/
+rag_db/
+test_db/
+
+__pycache__/
+*.pyc
+
+.env
+logs.jsonl
+deploy.tar.gz
+DEPLOYMENT_LOCK.txt
+INTERVIEW_PREP.md
+churn/
