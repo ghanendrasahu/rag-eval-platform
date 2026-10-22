@@ -86,3 +86,9 @@ Sample `POST /eval/answer` body:
 docker build -t rag-platform-api:latest .
 docker run --rm -p 8000:8000 --env-file .env rag-platform-api:latest
 ```
+
+## License
+
+MIT (c) 2026 ghanendrasahu - see [LICENSE](LICENSE).
+
+Issues and pull requests are welcome.
